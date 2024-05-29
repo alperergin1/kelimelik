@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace _01._07._21.free
+namespace kelimelik
 {
     class Program
     {
